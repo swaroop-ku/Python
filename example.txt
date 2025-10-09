@@ -1,0 +1,3 @@
+My name is swaroop
+I am student of CSE
+I am learning python
